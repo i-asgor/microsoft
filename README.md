@@ -1,2 +1,2 @@
-# microsoft Homepage clone
+# Microsoft Homepage Clone
 Author: Md. Abdullah-Al-Asgor Ali
